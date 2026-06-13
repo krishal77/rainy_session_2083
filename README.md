@@ -1,6 +1,6 @@
-# Rainy Session 2083 – ESP32 & Microcontroller Workshop
+# Rainy Session 2083 
 
-This repository contains the code, examples, and activity solutions from the **Rainy Session 2083 Robotics Beginner Workshop**.
+This repository contains the code, examples, and activity solutions from the **Rainy Session 2083 Robotics Beginner Workshop** organised by**Robotics Club - IOE, Pashchimanchal Campus**.
 
 During the 7-day workshop, I served as a tutor for two sessions focused on **Microcontrollers, ESP32, and Embedded Programming**. The repository was created to help participants review concepts, practice independently, and access all workshop materials in one place.
 
