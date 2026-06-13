@@ -54,5 +54,5 @@ Tools → Board → ESP32 Arduino → ESP32 Dev Module
 
 Feel free to explore, modify, and build upon these examples as you continue your robotics and embedded systems learning journey.
 
-> *"The best way to learn robotics is by building, experimenting, and continuously improving."* 
+> *"The best way to learn robotics is by building, experimenting, and continuously improving.."* 
 
